@@ -1,6 +1,6 @@
 # CORS-Proxy-Server
 
-代理转发 CORS 跨域资源请求 测试服务地址: [cors.wenjunjiang.win](https://cors.wenjunjiang.win)
+代理转发 CORS 跨域资源请求 测试服务地址: [cors.yiranzai.cn](https://cors.yiranzai.cn)
 
 ## 使用方法
 
